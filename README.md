@@ -1,2 +1,2 @@
 # Hello-world
-the beginning of learn data science
+the beginning of learning data science
